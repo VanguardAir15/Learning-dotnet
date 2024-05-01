@@ -1,2 +1,2 @@
-# expert-umbrella
-.Net &amp; C# Learning repo 
+# Learnig-dotnet
+dotnet Learning repo 
