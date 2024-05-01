@@ -1,2 +1,2 @@
-# Learnig-dotnet
+# Learning-dotnet
 dotnet Learning repo 
